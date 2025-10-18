@@ -61,16 +61,16 @@
             "id": 8,
             "name": "Capheny Càn Nguyên Điện Chủ",
             "downloadURL": "",
-            "imageUrl": "https://i.imgur.com/IkORUz7.jpeg",
+            "imageUrl": "https://i.imgur.com/WJzFHoz.jpeg",
             "imageKey": "caphenycannguyendienchu",
             "version": 1
         },
         {
             "id": 9,
-            "name": "Capheny Harley Quinn",
-            "downloadURL": "",
+            "name": "Airi Bích Hải Thánh Nữ",
+            "downloadURL": "https://github.com/nguyentuan1711200-IOS/zipskinssTW/raw/refs/heads/main/Airi%20B%C3%ADch%20H%E1%BA%A3i%20Th%C3%A1nh%20N%E1%BB%AF.zip",
             "imageUrl": "https://i.imgur.com/bK1cipp.jpeg",
-            "imageKey": "caphenyharleyquinn",
+            "imageKey": "airibichhaithanhnu",
             "version": 1
         },
         {
