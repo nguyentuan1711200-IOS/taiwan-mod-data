@@ -1,0 +1,221 @@
+{
+    "update_message": "",
+    "skins": [
+        {
+            "id": 1,
+            "name": "Nakroth Quỷ Thương Liệp Đế",
+            "downloadURL": "",
+            "imageUrl": "https://i.imgur.com/1dUtMMf.jpeg",
+            "imageKey": "nakrothquythuongliepde",
+            "version": 1
+        },
+        {
+            "id": 2,
+            "name": "Nakroth Bạch Diện Chiến Thương",
+            "downloadURL": "",
+            "imageUrl": "https://i.imgur.com/jbY6UkA.jpeg",
+            "imageKey": "nakrothbachdienthienthuong",
+            "version": 1
+        },
+        {
+            "id": 3,
+            "name": "Hayate Siêu Đạo Chích Kid",
+            "downloadURL": "",
+            "imageUrl": "https://i.imgur.com/o47OTAv.jpeg",
+            "imageKey": "hayatesieudaodichkid",
+            "version": 1
+        },
+        {
+            "id": 4,
+            "name": "Hayate Tu Di Thánh Đế",
+            "downloadURL": "",
+            "imageUrl": "https://i.imgur.com/OlLIGEt.jpeg",
+            "imageKey": "hayatetudithanhtde",
+            "version": 1
+        },
+        {
+            "id": 5,
+            "name": "Bijan Lữ Hành Thời Không",
+            "downloadURL": "",
+            "imageUrl": "https://i.imgur.com/tFJO2jE.jpeg",
+            "imageKey": "bijanluhanhthoikhong",
+            "version": 1
+        },
+        {
+            "id": 6,
+            "name": "Billow Thiên Tướng - Độ Ách",
+            "downloadURL": "",
+            "imageUrl": "https://i.imgur.com/MQYocWx.jpeg",
+            "imageKey": "billowthientuongdoach",
+            "version": 1
+        },
+        {
+            "id": 7,
+            "name": "Bolt Baron Thiên Phủ - Tư Mệnh",
+            "downloadURL": "",
+            "imageUrl": "https://i.imgur.com/5ZP8sv2.jpeg",
+            "imageKey": "boltbaronthienphutumenh",
+            "version": 1
+        },
+        {
+            "id": 8,
+            "name": "Capheny Càn Nguyên Điện Chủ",
+            "downloadURL": "",
+            "imageUrl": "https://i.imgur.com/IkORUz7.jpeg",
+            "imageKey": "caphenycannguyendienchu",
+            "version": 1
+        },
+        {
+            "id": 9,
+            "name": "Capheny Harley Quinn",
+            "downloadURL": "",
+            "imageUrl": "https://i.imgur.com/bK1cipp.jpeg",
+            "imageKey": "caphenyharleyquinn",
+            "version": 1
+        },
+        {
+            "id": 11,
+            "name": "Hayate Tử thần vũ trụ",
+            "downloadURL": "",
+            "imageUrl": "https://i.imgur.com/6qeq85U.jpeg",
+            "imageKey": "hayatetuthuvutru",
+            "version": 1
+        },
+        {
+            "id": 13,
+            "name": "Ilumia Khải Huyền Thiên Hậu",
+            "downloadURL": "",
+            "imageUrl": "https://i.imgur.com/q9ZYt11.jpeg",
+            "imageKey": "ilumiakhaihuyenthienhau",
+            "version": 1
+        },
+        {
+            "id": 14,
+            "name": "Ilumia Lưỡng Nghi Long Hậu",
+            "downloadURL": "",
+            "imageUrl": "https://i.imgur.com/vAjvJYk.jpeg",
+            "imageKey": "ilumialuongngilonghau",
+            "version": 1
+        },
+        {
+            "id": 15,
+            "name": "Krixi Lốc xoáy kinh hoàng Tatsumaki",
+            "downloadURL": "",
+            "imageUrl": "https://i.imgur.com/T4Vw6QB.jpeg",
+            "imageKey": "krixilocxoaykinhhoangtatsumaki",
+            "version": 1
+        },
+        {
+            "id": 16,
+            "name": "Krixi Phù thủy thời không",
+            "downloadURL": "",
+            "imageUrl": "https://i.imgur.com/PUwgxox.jpeg",
+            "imageKey": "krixiphuthuythoikhong",
+            "version": 1
+        },
+        {
+            "id": 17,
+            "name": "Lauriel Thứ nguyên vệ thần",
+            "downloadURL": "",
+            "imageUrl": "https://i.imgur.com/cYhoFTx.jpeg",
+            "imageKey": "laurielthuyenuvethan",
+            "version": 1
+        },
+        {
+            "id": 18,
+            "name": "Ngộ Không Tề Thiên Võ Thánh",
+            "downloadURL": "",
+            "imageUrl": "https://i.imgur.com/3WxfpPu.jpeg",
+            "imageKey": "ngokhongtethienvothanh",
+            "version": 1
+        },
+        {
+            "id": 19,
+            "name": "Ngộ Không Thần Giáp Xích Diễm",
+            "downloadURL": "",
+            "imageUrl": "https://i.imgur.com/jt8DZdS.jpeg",
+            "imageKey": "ngokhongthangiapxichdiem",
+            "version": 1
+        },
+        {
+            "id": 20,
+            "name": "Paine Megumi Fushiguro",
+            "downloadURL": "",
+            "imageUrl": "https://i.imgur.com/10SjoRf.jpeg",
+            "imageKey": "painemegumifushiguro",
+            "version": 1
+        },
+        {
+            "id": 21,
+            "name": "Stuart Siêu Trùm phản diện",
+            "downloadURL": "",
+            "imageUrl": "https://i.imgur.com/5FEUUHy.jpeg",
+            "imageKey": "stuartsieutrumphandien",
+            "version": 1
+        },
+        {
+            "id": 22,
+            "name": "Tel'annas Lân Quang Thánh Điệu",
+            "downloadURL": "",
+            "imageUrl": "https://i.imgur.com/gI13Qyf.jpeg",
+            "imageKey": "telannaslanquangsanhdieu",
+            "version": 1
+        },
+        {
+            "id": 23,
+            "name": "Tulen Chí tôn kiếm tiên",
+            "downloadURL": "",
+            "imageUrl": "https://i.imgur.com/PcFpPho.jpeg",
+            "imageKey": "tulenchitonkiemtien",
+            "version": 1
+        },
+        {
+            "id": 24,
+            "name": "Tulen Thần sứ STL-79",
+            "downloadURL": "",
+            "imageUrl": "https://i.imgur.com/XXc14Kh.jpeg",
+            "imageKey": "tulenthansustl79",
+            "version": 1
+        },
+        {
+            "id": 25,
+            "name": "Veera Thất Sát - Thượng Sinh",
+            "downloadURL": "",
+            "imageUrl": "https://i.imgur.com/k0odCwp.jpeg",
+            "imageKey": "veerathatsatthuongsinh",
+            "version": 1
+        },
+        {
+            "id": 26,
+            "name": "Violet Huyết ma thần",
+            "downloadURL": "",
+            "imageUrl": "https://i.imgur.com/X6HWRuX.jpeg",
+            "imageKey": "violethuyetmathan",
+            "version": 1
+        },
+        {
+            "id": 27,
+            "name": "Violet Nobara Kugisaki",
+            "downloadURL": "",
+            "imageUrl": "https://i.imgur.com/p3VITxQ.jpeg",
+            "imageKey": "violetnobarakugisaki",
+            "version": 1
+        },
+        {
+            "id": 28,
+            "name": "Violet Vọng nguyệt Long Cơ",
+            "downloadURL": "",
+            "imageUrl": "https://i.imgur.com/Wp9b8tV.jpeg",
+            "imageKey": "violetvongnguyetlongco",
+            "version": 1
+        },
+        {
+            "id": 29,
+            "name": "Yorn Conan Edogawa",
+            "downloadURL": "",
+            "imageUrl": "https://i.imgur.com/HMVdGTM.jpeg",
+            "imageKey": "yornconanedogawa",
+            "version": 1
+        }
+    ]
+}
